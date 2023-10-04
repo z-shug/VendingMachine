@@ -1,0 +1,4 @@
+KitKat::KitKat::0::0.50
+Snickers::Snickers::1::1.50
+Muffin::Muffin::4::1.85
+Doritos::Doritos::3::0.75
